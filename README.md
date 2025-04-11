@@ -4,7 +4,32 @@ This repository contains materials related to our research project exploring the
 
 ## 📁 Repository Structure
 
-. ├── draft/ │ ├── draft_1.docx │ ├── draft_2.docx │ └── draft_3.docx ├── empowering_students_through_ai.pdf ├── images/ │ ├── git_control_flow.png │ └── project_plan.png ├── interviews/ │ ├── eric.docx │ ├── jason.docx │ └── joe.docx ├── README.md ├── sources/ │ ├── article_ethical_ai_for_teaching_learning.webarchive │ ├── article_ethics_of_gen_ai.pdf │ ├── article_potential_benefits_of_get_ai.pdf │ ├── book_chapter_intrdouction_to_ai.pdf │ └── journal_potential_benefits_of_gen_ai.pdf └── survey/ ├── clean_data.py ├── perceived_learning_v_actual.png ├── screen_time.csv ├── survey_questions.docx └── survey_response.xlsx
+.
+├── draft/
+│   ├── draft_1.docx
+│   ├── draft_2.docx
+│   └── draft_3.docx
+├── empowering_students_through_ai.pdf
+├── images/
+│   ├── git_control_flow.png
+│   └── project_plan.png
+├── interviews/
+│   ├── eric.docx
+│   ├── jason.docx
+│   └── joe.docx
+├── README.md
+├── sources/
+│   ├── article_ethical_ai_for_teaching_learning.webarchive
+│   ├── article_ethics_of_gen_ai.pdf
+│   ├── article_potential_benefits_of_get_ai.pdf
+│   ├── book_chapter_intrdouction_to_ai.pdf
+│   └── journal_potential_benefits_of_gen_ai.pdf
+└── survey/
+    ├── clean_data.py
+    ├── perceived_learning_v_actual.png
+    ├── screen_time.csv
+    ├── survey_questions.docx
+    └── survey_response.xlsx
 
 ## 🔍 Folder Breakdown
 
