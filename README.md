@@ -59,11 +59,40 @@ Please note that interview data and some survey results are sensitive and should
 
 This research explores whether generative AI tools act as a boon or bane in educational contexts. We assess the ethical, pedagogical, and practical implications through a mixed-methods approach involving literature reviews, surveys, and interviews.
 
+## 🛠️ Contribution
+
+We welcome contributions to this research project! If you'd like to collaborate, follow these steps:
+
+1. **Fork the Repository**  
+   Click the **Fork** button at the top right of this repository to create your own copy.
+
+2. **Clone the Repository**  
+   Use the command below to clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/using-generative-ai.git
+   cd using-generative-ai
+   ```
+
+3. **Create a Branch**
+   Make a new branch for your changes
+   ```bash
+   git checkout -b your-branch-name
+   ```
+4. ** Make Your Changes**
+   Add your edits, analysis, documents, or improvements.
+
+5. **Commit and Push**
+   ```bash
+   git add .
+   git commit -m "Describe your changes"
+   git push origin your-branch-name
+   ```
+
+6. **Submit a Pull Request**
+   Go to the original repository on GitHub and click "Compare & pull request". Write a brief summary of your changes and submit.
+
 ## 📫 Contact
 
 For more information or collaboration inquiries, please contact the project team.
 
----
-
-Let me know if you'd like to include contributor names, links, or a license section!
 
